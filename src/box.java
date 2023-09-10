@@ -8,5 +8,16 @@ public class box<T> {
         this.prop = prop;
     }
 
+    public box(T prop)
+    {
+        this.prop = prop;
+    }
+
     private T prop;
 }
+
+
+
+
+
+
